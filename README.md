@@ -28,4 +28,11 @@ This strategy is the same as Strategy 2 but there is an extra condition. The ext
 ## Strategy 4
 If the player total score is less than 2 times the dealer face up and player total score is less than 16, the player always draw.
 
+# Simulation result
+The probablity of win, tie and lose of 'n' number of blackjack games.
 
+## Number of games = 1 million
+![screenshot3](https://user-images.githubusercontent.com/55210396/76239375-7672a100-61ff-11ea-8ee9-6ccd7ca0ffca.png)
+
+## Number of games = 10 million (It takes around 15 minutes to run each strategy)
+![screenshot4](https://user-images.githubusercontent.com/55210396/76239491-ade14d80-61ff-11ea-8a02-5a31305a606a.png)
