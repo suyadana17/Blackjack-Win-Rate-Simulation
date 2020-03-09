@@ -7,5 +7,22 @@ Each numerical card (2–10) is worth its number, an ace is worth 1 or 11, a fac
 
 But in this project, we will be ignoring blackjack bonuses, splits and doubles.
 
-# 
+# Project Overview and Instruction
+* There are two variables in the program. These can be changed to desired values.
+  * Code Line 11 - numGame
+  * Code Line 12 - strategy
+* "numGame" is the number of games. (The intial program simulated with 1 million games)
+* "strategy" is the specific strategy to run the simulation. There are four strategies. (type in "Strategy 1", "Strategy 2",
+"Strategy 4" or "Strategy 4"). The 'S' of Strategy should be captitalized followed by a space and a number ranging from 1 to 4).
+
+# Strategy
+## Strategy 1
+
+## Strategy 2
+
+## Strategy 3
+
+## Strategy 4
+
+
 
