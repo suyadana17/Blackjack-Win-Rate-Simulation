@@ -4,7 +4,7 @@ A blackjack simulation program to determine the win, lose and tie probability of
 # Rules of Blackjack
 Blackjack is a game in which a player plays against a dealer. Both the player and the dealer try to get cards that add up to as high a number as possible without crossing 21. Crossing 21 means you automatically lose. If both the player and the dealer both cross 21, the dealer wins. However, the player can see one of the dealer’s cards before making their decision, whereas the dealer acts independently of the player’s cards, generally continuing until its score hits 17.
 Each numerical card (2–10) is worth its number, an ace is worth 1 or 11, a face card is worth 10. Note that this means there are effectively 4 times as many 10s (10, J, Q,K) as other cards. There are various other caveats, like blackjack bonuses, splits, and doubles.
-
+The dealer will always have a face up card at the start of the round.
 But in this project, we will be ignoring blackjack bonuses, splits and doubles.
 
 # Project Overview and Instruction
@@ -20,12 +20,12 @@ Dealer will be using a fixed strategy. The dealer will always get a card if the 
 
 There are four strategies used by the player. (which can be changed in the code)
 ## Strategy 1
-Both the player and dealer will each get exactly two cards only. The score of both the player and dealer will be added and evaluted to determin win, lose or tie. 
+The player will get exactly two cards only. The score of both the player and dealer will be added and evaluted to determin win, lose or tie. 
 ## Strategy 2
-The dealer will get exactly two car
+The player will draw card if the total score of player is under 17. The player will stop drawing card if the total score of player is 17 or over.
 ## Strategy 3
-
+This strategy is the same as Strategy 2 but there is an extra condition. The extra condition is if the dealer face up card has a value of 10 and player score is 17, the player will draw an extra card.
 ## Strategy 4
-
+If the player total score is less than 2 times the dealer face up and player total score is less than 16, the player always draw.
 
 
