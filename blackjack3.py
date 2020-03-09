@@ -8,7 +8,7 @@ from pylab import *
 import random
 from colorama import Fore, Style
 
-numGame = 10000
+numGame = 1000000
 strategy = 'Strategy 1'
 
 win = 0
