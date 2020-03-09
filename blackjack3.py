@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 23 20:06:15 2015
-
-@author: Hussam Ibrahim, Ali Rabeh, Myo Lin
+@author: Su Yadana
 Project 3 - Blackjack Simulation
 """
 
@@ -10,7 +8,7 @@ from pylab import *
 import random
 from colorama import Fore, Style
 
-numGame = 1000000
+numGame = 10000
 strategy = 'Strategy 1'
 
 win = 0
