@@ -39,3 +39,9 @@ The probablity of win, tie and lose of 'n' number of blackjack games.
 
 # Environment 
 Python 3.7 is needed to run [blackjack3.py](blackjack3.py). Download [Python 3.7](https://www.python.org/downloads/) here and install it.
+
+# Conclustion
+The result of the four strategies indicate that the player has more chance to lose in a blackjack game. 
+
+# Project Expansion
+There are many more basic blackjack strategy not implemented in the project. For a better and more accurate simulation results, more strategies could be combined into a more complicated codes to yeild more accurate outcomes.
