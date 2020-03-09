@@ -17,7 +17,7 @@ But in this project, we will be ignoring blackjack bonuses, splits and doubles.
 
 # Strategy
 ## Strategy 1
-
+Both the player and dealer will each get exactly two cards only. The score of both the player and dealer will be added and evaluted to determin win, lose or tie. 
 ## Strategy 2
 
 ## Strategy 3
