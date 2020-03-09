@@ -16,10 +16,13 @@ But in this project, we will be ignoring blackjack bonuses, splits and doubles.
 "Strategy 4" or "Strategy 4"). The 'S' of Strategy should be captitalized followed by a space and a number ranging from 1 to 4).
 
 # Strategy
+Dealer will be using a fixed strategy. The dealer will always get a card if the total score of dealer is under 17, which means the dealer will not draw a card if the total score of dealer is 17 or above.
+
+There are four strategies used by the player. (which can be changed in the code)
 ## Strategy 1
 Both the player and dealer will each get exactly two cards only. The score of both the player and dealer will be added and evaluted to determin win, lose or tie. 
 ## Strategy 2
-
+The dealer will get exactly two car
 ## Strategy 3
 
 ## Strategy 4
