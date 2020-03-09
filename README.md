@@ -7,5 +7,5 @@ Each numerical card (2–10) is worth its number, an ace is worth 1 or 11, a fac
 
 But in this project, we will be ignoring blackjack bonuses, splits and doubles.
 
-# Strategy
+# 
 
