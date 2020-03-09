@@ -36,3 +36,6 @@ The probablity of win, tie and lose of 'n' number of blackjack games.
 
 ## Number of games = 10 million (It takes around 15 minutes to run each strategy)
 ![screenshot4](https://user-images.githubusercontent.com/55210396/76239491-ade14d80-61ff-11ea-8a02-5a31305a606a.png)
+
+# Environment 
+Python 3.7 is needed to run [blackjack3.py](blackjack3.py). Download [Python 3.7](https://www.python.org/downloads/) here and install it.
